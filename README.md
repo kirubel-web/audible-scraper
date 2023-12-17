@@ -1,5 +1,8 @@
 # Audible Bestsellers Scraper
 
+![Thumbnail](images/Audible-Scrap.png)
+![Website](images/website.png)
+
 This Python script is designed to scrape Audible bestseller information using Selenium and Chrome WebDriver. It extracts book titles, authors, and lengths and saves the data to a CSV file.
 
 ## Table of Contents
